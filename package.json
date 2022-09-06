@@ -1,0 +1,11 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "repository": "git@github.com:NolanFlegel/ts-tutorial.git",
+  "author": "Nolan Flegel <nolanflegel@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
